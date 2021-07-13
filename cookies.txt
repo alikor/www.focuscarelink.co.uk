@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-focuscarelink.co.uk	TRUE	/	FALSE	1999999999	PHPSESSID	2b2d9737f8aba4692d479cbe040a74dc
-
