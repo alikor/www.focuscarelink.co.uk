@@ -459,7 +459,7 @@ a:hover, a:active {
 }
 
 #header nav {
-	float: left;
+	float: right;
 	width: 600px;
 }
 
