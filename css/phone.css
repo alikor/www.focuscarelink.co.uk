@@ -1,0 +1,771 @@
+/* Navigation */
+#navbar {
+    flex-direction: column;
+    font-family: Arial;
+}
+
+#navbar ul li a{
+    font-size: 13px;
+    padding: 0px 7px;
+    padding-bottom: 8px;
+    font-family: Arial;
+}
+/* Home section */
+#home{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#home::before{
+    height: 480px; 
+}
+
+#home p{
+    font-size: 13px;
+}
+
+/* Services section  */
+#services{
+    flex-direction: column;
+}
+
+#services .box { 
+    padding: 14px;
+    margin: 2px 0px; 
+    margin-bottom: 20px;
+}
+#services .box1 { 
+    padding: 14px;
+    margin: 2px 0px; 
+    margin-bottom: 20px;
+}
+
+#services01 .box{
+    padding: 14px;
+    margin: 2px 0px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+
+}
+/* line 2 boxes or phone view of line 2 boxes*/
+
+
+#box4{
+    border: 2px solid brown;
+    padding: 34px;
+    margin: 2px 55px;
+    border-radius: 28px;
+    background: #f2f2f2;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    width: 275px;
+    
+
+}
+#box4 img{
+    height: 120px;
+   margin: auto;
+   display: block;
+   border: 2px solid black;
+   border-radius: 18px;
+}
+/*box 5 line 2*/
+#box5{
+    border: 2px solid brown;
+    padding: 34px;
+    margin: 2px 55px;
+    border-radius: 28px;
+    background: #f2f2f2;
+    margin-bottom: 20px;
+    margin-left: 250px;
+    width: 275px;
+    
+
+}
+#box5 img{
+    height: 160px;
+   margin: auto;
+   display: block;
+   border: 2px solid black;
+   border-radius: 18px;
+}
+
+/*box 6 line 2*/
+#box6{
+    border: 2px solid brown;
+    padding: 34px;
+    margin: 2px 55px;
+    border-radius: 28px;
+    background: #f2f2f2;
+    margin-bottom: 20px;
+    margin-left: 250px;
+    width: 275px;
+    
+
+}
+#box6 img{
+    height: 160px;
+   margin: auto;
+   display: block;
+   border: 2px solid black;
+   border-radius: 18px;
+}
+/* these are the measures to use for box in second line for phone view above up*/
+/*these  are the measeures to use for box in third line for phone view below down*/
+#box7{
+    border: 2px solid brown;
+    padding: 34px;
+    margin: 2px 55px;
+    border-radius: 28px;
+    background: #f2f2f2;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    
+    width: 235px;
+    
+
+}
+#box7 img{
+    height: 120px;
+   margin: auto;
+   display: block;
+   border: 2px solid black;
+   border-radius: 18px;
+}
+/* box 8 of third line*/
+#box8{
+    border: 2px solid brown;
+    padding: 34px;
+    margin: 2px 55px;
+    border-radius: 28px;
+    background: #f2f2f2;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    
+    width: 235px;
+    
+
+}
+#box8 img{
+    height: 160px;
+   margin: auto;
+   display: block;
+   border: 2px solid black;
+   border-radius: 18px;
+}
+/* box 8 of third line*/
+#box9{
+    border: 2px solid brown;
+    padding: 34px;
+    margin: 2px 55px;
+    border-radius: 28px;
+    background: #f2f2f2;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    
+    width: 235px;
+    
+
+}
+#box9 img{
+    height: 120px;
+   margin: auto;
+   display: block;
+   border: 2px solid black;
+   border-radius: 18px;
+}
+
+/*fourth line of boxes will be presented below*/
+/*------------------------------------------------------*/
+#box10{
+    border: 2px solid brown;
+    padding: 34px;
+    margin: 2px 55px;
+    border-radius: 28px;
+    background: #f2f2f2;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    
+    width: 235px;
+    
+
+}
+#box10 img{
+    height: 120px;
+   margin: auto;
+   display: block;
+   border: 2px solid black;
+   border-radius: 18px;
+}
+/* box 11 of third line*/
+#box11{
+    border: 2px solid brown;
+    padding: 34px;
+    margin: 2px 55px;
+    border-radius: 28px;
+    background: #f2f2f2;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    
+    width: 235px;
+    
+
+}
+#box11 img{
+    height: 120px;
+   margin: auto;
+   display: block;
+   border: 2px solid black;
+   border-radius: 18px;
+}
+/* box 12 of third line*/
+#box12{
+    border: 2px solid brown;
+    padding: 34px;
+    margin: 2px 55px;
+    border-radius: 28px;
+    background: #f2f2f2;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    
+    width: 235px;
+    
+
+}
+#box12 img{
+    height: 160px;
+   margin: auto;
+   display: block;
+   border: 2px solid black;
+   border-radius: 18px;
+}
+
+
+
+/* Clients section */
+#clients{
+    flex-wrap: wrap;
+}
+
+#clients img{
+    width: 66px;
+    padding: 6px;
+    height: auto;
+}
+
+.abtpara{
+    font-size: 25px;
+    text-decoration: solid;
+    color: black;
+}
+
+/* Contact us section */
+#contact-box form{
+    width:80%;
+}
+/* Footer */
+
+/* Utility classes */
+.h-primary{
+    font-size:26px;
+}
+.btn{
+    font-size: 13px;
+    padding: 4px 8px;
+}
+.btn:hover{
+    color: green;
+    background-color: blue;
+}
+span{
+    color: rgb(240, 27, 27);
+}
+.members{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    padding: 10px;
+}
+#buttonid{
+    color:white ;
+    background-color: black;
+}
+
+#buttomid:hover{
+    color: black;
+    background-color: black;
+    cursor: pointer;
+    
+}
+.animatedlogo{
+    transition-property: all;
+    transition-duration: 3s;
+    transform: rotate(360deg);
+}
+
+.animatedlogo:hover{
+    transform: rotate(360deg);
+    
+}
+#compgreen{
+    font-size:  50px;
+    
+}
+/*setting services section boxes height and width so that it does not throw an error while viewing it in mobile mode*/
+/*
+#box1{
+   /* font-size: medium;
+    width: 59.99%;
+    height: 350px;
+   
+    padding: 14px;
+    margin: 2px 0px; 
+    margin-bottom: 20px;
+
+}
+
+#box2{
+    padding: 14px;
+    margin: 2px 0px; 
+    margin-bottom: 20px;
+
+}
+
+#box3{
+    padding: 14px;
+    margin: 2px 0px; 
+    margin-bottom: 20px;
+
+}
+*/
+
+.jobpositions ul li {
+    padding: 2px;
+    display: block;
+    
+   
+    text-align: left;
+    
+}
+
+.jobpositions ul  li a{
+    display: block;
+    text-align: left;
+    font-size: 10px;
+
+}
+.jobpositions h3{
+    font-size: 12.5px;
+}
+
+
+/*acquired brain injury page*/
+#home1{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#home1::before{
+    height: 480px; 
+}
+
+#home1 p{
+    font-size: 13px;
+}
+
+.phna{
+    display: flex;
+    background-color: #6cb830;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1rem;
+    padding: 20px;
+    margin: 50px;
+    border: 2px solid black;
+    border-radius: 28px;
+    
+}
+
+.maila{
+    display: flex;
+    background-color: #6cb830;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1rem;
+    padding: 20px;
+    margin: 50px;
+    border: 2px solid black;
+    border-radius: 28px;
+    
+}
+.callus{
+    display: flex;
+
+}
+.mailus{
+    display: flex;
+}
+
+/*till 10 page of condition ledcare*/
+#home2{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#home2::before{
+    height: 480px; 
+}
+
+#home2 p{
+    font-size: 13px;
+}
+
+/*3*/
+#home3{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#home3::before{
+    height: 480px; 
+}
+
+#home3 p{
+    font-size: 13px;
+}
+/*4*/
+#home4{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#home4::before{
+    height: 480px; 
+}
+
+#home4 p{
+    font-size: 13px;
+}
+
+/*5*/
+#home5{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#home5::before{
+    height: 480px; 
+}
+
+#home5 p{
+    font-size: 13px;
+}
+
+/*6*/
+#home6{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#home6::before{
+    height: 480px; 
+}
+
+#home6 p{
+    font-size: 13px;
+}
+/*7*/
+#home7{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#home7::before{
+    height: 480px; 
+}
+
+#home7 p{
+    font-size: 13px;
+}
+
+/*8*/
+#home8{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#home8::before{
+    height: 480px; 
+}
+
+#home8 p{
+    font-size: 13px;
+}
+
+/*9*/
+#home9{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#home9::before{
+    height: 480px; 
+}
+
+#home9 p{
+    font-size: 13px;
+}
+
+/*10*/
+#home10{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#home10::before{
+    height: 480px; 
+}
+
+#home10 p{
+    font-size: 13px;
+}
+/*11*/
+#home11{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#home11::before{
+    height: 480px; 
+}
+
+#home11 p{
+    font-size: 13px;
+}
+/*12*/
+#home12{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#home12::before{
+    height: 480px; 
+}
+
+#home12 p{
+    font-size: 13px;
+}
+/*13*/
+#home13{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#home13::before{
+    height: 480px; 
+}
+
+#home13 p{
+    font-size: 13px;
+}
+/*14*/
+#home14{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#home14::before{
+    height: 480px; 
+}
+
+#home14 p{
+    font-size: 13px;
+}
+/*15*/
+#home15{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#home15::before{
+    height: 480px; 
+}
+
+#home15 p{
+    font-size: 13px;
+}
+/*16*/
+#home16{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#home16::before{
+    height: 480px; 
+}
+
+#home16 p{
+    font-size: 13px;
+}
+/*17*/
+#home17{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#home17::before{
+    height: 480px; 
+}
+
+#home17 p{
+    font-size: 13px;
+}
+/*18*/
+#home18{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#home18::before{
+    height: 480px; 
+}
+
+#home18 p{
+    font-size: 13px;
+}
+/*19*/
+#home19{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#home19::before{
+    height: 480px; 
+}
+
+#home19 p{
+    font-size: 13px;
+}
+/*20*/
+#home20{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#home20::before{
+    height: 480px; 
+}
+
+#home20 p{
+    font-size: 13px;
+}
+/*2*/
+#home21{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#home21::before{
+    height: 480px; 
+}
+
+#home21 p{
+    font-size: 13px;
+}
+/*home val*/
+#homeval{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#homeval::before{
+    height: 480px; 
+    background: url('../phnval.jpg') no-repeat center center/cover;
+}
+
+#homeval p{
+    font-size: 13px;
+}
+/*complaint home design*/
+#homecomplaint{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#homecomplaint::before{
+    height: 480px; 
+    background: url('../complaintsimg.jpg') no-repeat center center/cover;
+}
+
+#homecomplaint p{
+    font-size: 13px;
+}
+
+.oklast{
+   box-shadow: 10px 10px 10px 10px grey;
+   height: 200px;
+   display: block;
+   margin: auto;
+}
+.otherinfo{
+    text-align: center;
+    color:grey ;
+    font-size: 1.2rem;
+    padding: 15px;
+    margin: 10px;
+}
+.form-group{
+    text-align: left;
+}
+
+/*cqc image on page about us*/
+
+#cqcimg{
+    
+    box-shadow: 9px 9px 9px 9px rgb(201, 199, 199);
+    border: 2px solid transparent;
+    border-radius:28px ;
+   
+}
+
+/*image of feedback form*/
+.imgform img{
+    display: flex;
+    flex-direction: column;
+    height: 350px;
+    width: 100px;
+    border: 2px solid black;
+
+    padding: 25px;
+    margin: 25px;
+    
+}
+
+/*feedback page design*/
+#homefeedback{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#homefeedback::before{
+    height: 480px; 
+    background: url('../Feedback.png') no-repeat center center/cover;
+}
+
+#homefeedback p{
+    font-size: 13px;
+}
+
+/*case studies design*/
+#homecase{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#homecase{
+    height: 480px; 
+}
+
+#homecase p{
+    font-size: 13px;
+}

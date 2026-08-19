@@ -1,0 +1,33 @@
+header{
+    position: fixed;
+    /*top:0; left:0; right: 0;*/
+    background: #6cb830;
+    /*box-shadow:0 5px 10px rgb(0,0,0,.1);*/
+    padding: 20px 7%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;;
+    z-index: 1000;
+
+
+    
+
+
+}
+/*logo shall come her but we wont include in the new navbar*/
+
+/*other things of nav bar shall come her*/
+
+header .navbar ul li{
+    position: relative;
+    float: left;
+
+}
+
+header .navbar ul li a{
+    font-size: 20px;
+    padding: 20px;
+    color: #fff;
+    display: block;
+
+}

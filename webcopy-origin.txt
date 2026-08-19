@@ -1,0 +1,480 @@
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\npm\bootstrap@5.2.0-beta1\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\npm\bootstrap@5.2.0-beta1\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\ajax\libs\jquery\3.5.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.4.8/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\ajax\libs\Swiper\6.4.8\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.4.8/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\ajax\libs\Swiper\6.4.8\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://focuscarelink.co.uk/
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\index.htm
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/abilast.png
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\abilast.png
+Content Type: image/png
+
+Uri: https://focuscarelink.co.uk/abj.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\abj.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/acquiredbraininjury.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\acquiredbraininjury.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/alzhimersdesease.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\alzhimersdesease.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/alzimg.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\alzimg.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/bariatriccare.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\bariatriccare.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/bg1.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\bg1.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/biarimg.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\biarimg.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/blindsupportimg.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\blindsupportimg.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/cancercare.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\cancercare.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/cancimg.jpeg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\cancimg.jpeg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/casestudies.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\casestudies.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/casestudiesimg.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\casestudiesimg.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/cerebalcare.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\cerebalcare.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/cerebralimg.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\cerebralimg.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/clinicalcasemanagement.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\clinicalcasemanagement.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/clinicalimg.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\clinicalimg.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/clinicalsupport.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\clinicalsupport.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/complaints.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\complaints.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/complaintsimg.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\complaintsimg.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/contact.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\contact.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/contactus.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\contactus.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/cqc.png
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\cqc.png
+Content Type: image/png
+
+Uri: https://focuscarelink.co.uk/css/phone.css
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\css\phone.css
+Content Type: text/css
+
+Uri: https://focuscarelink.co.uk/css/style.css
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\css\style.css
+Content Type: text/css
+
+Uri: https://focuscarelink.co.uk/css/tv.css
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\css\tv.css
+Content Type: text/css
+
+Uri: https://focuscarelink.co.uk/cul.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\cul.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/dementia.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\dementia.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/downimg.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\downimg.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/downsyndromecare.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\downsyndromecare.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/eating disorders.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\eating disorders.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/fdb.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\fdb.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/feedback.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\feedback.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/Feedback.png
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\Feedback.png
+Content Type: image/png
+
+Uri: https://focuscarelink.co.uk/HR.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\HR.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/huntingstoncare.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\huntingstoncare.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/huntingtonimg.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\huntingtonimg.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/img/1.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\img\1.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/img/3.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\img\3.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/index.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\index.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/jobsearch.jpeg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\jobsearch.jpeg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/kneeandhipcare.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\kneeandhipcare.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/kneecareimg.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\kneecareimg.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/learning disability.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\learning disability.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/legal.css
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\legal.css
+Content Type: text/css
+
+Uri: https://focuscarelink.co.uk/legal1.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\legal1.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/legalbg1.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\legalbg1.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/liveincare1.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\liveincare1.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/lockedimg.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\lockedimg.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/lockedinsyndromecare.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\lockedinsyndromecare.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/logo.png
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\logo.png
+Content Type: image/png
+
+Uri: https://focuscarelink.co.uk/logo1.png
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\logo1.png
+Content Type: image/png
+
+Uri: https://focuscarelink.co.uk/london1.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\london1.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/london3.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\london3.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/main.js
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\main.js
+Content Type: application/x-javascript
+
+Uri: https://focuscarelink.co.uk/manageclinical.jpeg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\manageclinical.jpeg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/mental act health care.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\mental act health care.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/mulimg.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\mulimg.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/Multiplesclerosis.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\Multiplesclerosis.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/musculardystrophy.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\musculardystrophy.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/musimg.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\musimg.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/neu1img.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\neu1img.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/neuimg.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\neuimg.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/neurologicalcare.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\neurologicalcare.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/neurologicalcarenurse.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\neurologicalcarenurse.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/okvaluespage.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\okvaluespage.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/old people.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\old people.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/P&P022.Confidentiality of Service Users Information Policy (Controlled).pdf
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\P&P022.Confidentiality of Service Users Information Policy (Controlled).pdf
+Content Type: application/pdf
+
+Uri: https://focuscarelink.co.uk/P&P092.Records Kept in the Homes of People Receiving Care (England) Pollicy (Controlled).pdf
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\P&P092.Records Kept in the Homes of People Receiving Care (England) Pollicy (Controlled).pdf
+Content Type: application/pdf
+
+Uri: https://focuscarelink.co.uk/P&P163.Access to Records (England) Policy (Controlled).pdf
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\P&P163.Access to Records (England) Policy (Controlled).pdf
+Content Type: application/pdf
+
+Uri: https://focuscarelink.co.uk/P&P166.Applications for Access to a Deceased Service Users Care Records Policy (Controlled).pdf
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\P&P166.Applications for Access to a Deceased Service Users Care Records Policy (Controlled).pdf
+Content Type: application/pdf
+
+Uri: https://focuscarelink.co.uk/P&P192.Equality Policy and Procedure (Controlled).pdf
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\P&P192.Equality Policy and Procedure (Controlled).pdf
+Content Type: application/pdf
+
+Uri: https://focuscarelink.co.uk/palliative.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\palliative.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/parkimg.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\parkimg.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/parkinsonscare.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\parkinsonscare.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/phnval.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\phnval.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/physical disabilities.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\physical disabilities.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/priceguide.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\priceguide.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/priceguideimg.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\priceguideimg.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/Privacy Notice.pdf
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\Privacy Notice.pdf
+Content Type: application/pdf
+
+Uri: https://focuscarelink.co.uk/Quality Policy Notice 2022.pdf
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\Quality Policy Notice 2022.pdf
+Content Type: application/pdf
+
+Uri: https://focuscarelink.co.uk/reviewsbox.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\reviewsbox.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/scripts.js
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\scripts.js
+Content Type: application/x-javascript
+
+Uri: https://focuscarelink.co.uk/sensory impairment.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\sensory impairment.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/services.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\services.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/servicesnav.css
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\servicesnav.css
+Content Type: text/css
+
+Uri: https://focuscarelink.co.uk/spinalcord.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\spinalcord.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/spinalcordinjurycare.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\spinalcordinjurycare.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/strokeimg.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\strokeimg.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/strokes.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\strokes.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/subsatnce misuse.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\subsatnce misuse.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/supportfortheblind.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\supportfortheblind.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/supportfortheblindimg.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\supportfortheblindimg.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/supportforthedeaf.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\supportforthedeaf.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/testimonials.css
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\testimonials.css
+Content Type: text/css
+
+Uri: https://focuscarelink.co.uk/try.js
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\try.js
+Content Type: application/x-javascript
+
+Uri: https://focuscarelink.co.uk/values.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\values.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/valuesimg.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\valuesimg.jpg
+Content Type: image/jpeg
+
+Uri: https://focuscarelink.co.uk/ventilatorcare.html
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\ventilatorcare.html
+Content Type: text/html
+
+Uri: https://focuscarelink.co.uk/ventilatorimg.jpg
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\ventilatorimg.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+Content Type: font/ttf
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.cqc.org.uk/sites/all/modules/custom/cqc_widget/widget.js?data-id=1-118941704&data-host=https://www.cqc.org.uk&type=location
+File Name: C:\Downloaded Web Sites\20260409120827 DOWNLOAD\focuscarelink.co.uk\sites\all\modules\custom\cqc_widget\widget.js
+Content Type: text/javascript
+

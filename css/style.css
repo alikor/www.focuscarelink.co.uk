@@ -1,0 +1,2199 @@
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* CSS Variables */
+:root {
+    --navbar-height: 59px;
+}
+
+/* Navigation Bar */
+#navbar {
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+}
+
+body {
+    font-family: Arial;
+
+}
+
+#navbar::before {
+    content: "";
+    background-color:
+        /*black*/
+        #6cb830;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.7;
+}
+
+/* Navigation Bar: Logo and Image */
+#logo {
+    /*logo is here*/
+    margin: 10px 34px;
+    transition: all;
+    transition-duration: 3s;
+    transition-timing-function: ease-in-out;
+
+
+
+
+}
+
+#logo:hover {
+    transform: rotate(360deg);
+
+}
+
+#logo img {
+    height: 45px;
+    width: 45px;
+    /*margin: 3px 6px;*/
+    /*old height only 59px*/
+}
+
+
+/* Navigation Bar: List Styling */
+
+#navbar ul {
+    display: flex;
+    font-family: Arial;
+}
+
+#navbar ul li {
+    list-style: none;
+    font-size: 1.3rem;
+}
+
+#navbar ul li a {
+    color: white;
+    display: block;
+    padding: 3px 22px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-family: Arial;
+}
+
+#navbar ul li a:hover {
+    color: black;
+    background-color: white;
+}
+
+/* Home Section */
+#home {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#home::before {
+    content: "";
+    position: absolute;
+    background: url('../bg1.jpg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#home h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+
+
+
+
+
+#home p {
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+
+/* Services Section */
+
+/*
+#services {
+    margin: 34px;
+    display: flex;
+}
+
+
+#services .box {
+    border: 2px solid brown;
+    padding: 34px;
+    margin: 2px 55px;
+    border-radius: 28px;
+    background: #f2f2f2;
+    margin-bottom: 20px;
+}
+
+/*second line of boxes*/
+
+/*
+#services .box img {
+    height: 160px;
+    margin: auto;
+    display: block;
+    border: 2px solid black;
+    border-radius: 18px;
+}
+
+#services .box p {
+    font-family: Arial;
+    font-size: 15px;
+    text-align: left;
+
+}
+*/
+
+
+/* Clients Section */
+#client-section {
+    position: flex;
+}
+
+#client-section::before {
+    content: "";
+    position: absolute;
+   /* background: url('../bg.jpg') center center/cover;*/
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    /*opacity: 0.3;*/
+}
+
+#clients {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.abtpara {
+    font-size: 25px;
+
+    color: black;
+    margin: 15px;
+    padding: 10px;
+}
+
+#reviewids {
+    text-align: left;
+    align-items: center;
+}
+
+.reviewhead {
+    color: black;
+    font-size: 30px;
+    font-family: Arial;
+    padding: 25px;
+    margin: 40px;
+}
+
+.reviewpara1 {
+    color: black;
+    font-size: 32px;
+    margin: 20px;
+    padding: 20px;
+    text-align: left;
+
+
+
+
+}
+
+.reviewpara2 {
+    color: black;
+    font-size: 32px;
+    margin: 20px;
+    padding: 20px;
+    text-align:left ;
+
+
+}
+
+.reviewpara3 {
+    color: black;
+    font-size: 32px;
+    margin: 20px;
+    padding: 20px;
+    text-align: left;
+    
+
+
+}
+
+.members {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.h2head1 {
+    color: green;
+    font-size: 50px;
+    text-decoration: solid;
+}
+
+
+/*
+
+
+
+}
+*/
+
+/*.client-item{
+    padding: 34px;
+}
+
+#clients img{
+    height: 124px;
+}*/
+
+
+/* Contact Section */
+#contact {
+    position: flex;
+    font-family: Arial;
+}
+
+#contact::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0.7;
+    background: url('../contact.jpg') no-repeat center center/cover;
+
+}
+
+#contact-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 34px;
+}
+
+#contact-box input,
+#contact-box textarea {
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 9px;
+    font-size: 1.1rem;
+}
+
+#contact-box form {
+    width: 40%;
+}
+
+#contact-box label {
+    font-size: 1.3rem;
+    font-family: Arial;
+
+}
+
+
+footer {
+    background: black;
+    color: white;
+    padding: 9px 20px;
+}
+
+/* Utility Classes */
+.h-primary {
+    font-family: Arial;
+    font-size: 3.8rem;
+    padding: 12px;
+}
+
+.h-secondary {
+    font-family: Arial;
+    font-size: 2.3rem;
+    padding: 12px;
+}
+
+.btn {
+    padding: 6px 20px;
+    border: 2px solid white;
+    background-color: #6cb830;
+    color: white;
+    margin: 17px;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    color: red;
+    background-color: green;
+
+}
+
+
+
+.center {
+    text-align: center;
+}
+
+span {
+    /* color:rgb(247, 30, 30);*/
+    color: green;
+
+}
+
+#buttonid {
+    background-color: black;
+    color: white;
+
+
+}
+
+#buttonid:hover {
+    color: black;
+    background-color: white;
+    cursor: pointer;
+}
+
+#abtus {
+    color:black;
+    font-family: Arial;
+
+}
+
+.mapclass {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    margin: auto;
+    text-align: center;
+
+
+}
+
+iframe {
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+}
+
+.findus {
+    color: white;
+    font-size: 35px;
+    margin: 15px;
+    border: 2px solid;
+    background-color: #6cb830;
+    border-radius: 18px;
+
+
+}
+
+.whitelink {
+    color: white;
+}
+
+.animatedlogo {
+    transition-property: all;
+    transition-duration: 3s;
+    transform: rotate(360deg);
+
+
+}
+
+.animatedlogo:hover {
+    transform: rotate(360deg);
+}
+
+.copyclass {
+    font-size: 25px;
+
+}
+
+.legalclass {
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #6cb830;
+    /*opacity: 0.8;*/
+}
+
+#contfont {
+    font-family: Arial;
+
+}
+
+#servfont {
+    font-family: Arial;
+}
+
+#legal-section::before {
+    content: "";
+    position: absolute;
+    /*background: url('../legalbg1.jpg') center repeat;*/
+    width: 100%;
+    height: 100vh;
+    z-index: -1;
+    opacity: 0.3;
+}
+
+#legal1pg {
+    color: black;
+
+
+}
+
+#privacy-section::before {
+    content: "";
+    position: absolute;
+    background: url('../legalbg1.jpg') no-repeat center center/cover;
+    width: 100%;
+    height: 100vh;
+    z-index: -1;
+    opacity: 0.3;
+}
+
+.okbutton {
+    color: white;
+    background-color: black;
+    padding: 6px 20px;
+    margin: 17px;
+    font-size: 1.5rem;
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 25px;
+}
+
+#compgreen {
+    font-size: 80px;
+}
+
+#Hr::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0.5;
+    background: url('../jobsearch.jpeg') no-repeat center center/cover;
+
+}
+
+
+/*Quick links inside of footer*/
+.quicklinks ul li {
+    margin: 15px;
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    text-align: left;
+
+
+}
+
+.quicklinks ul li a {
+    color: white;
+    text-decoration: none;
+    text-align: left;
+
+
+}
+
+.connect {
+    margin: 20px;
+}
+
+/*Various job positions*/
+.jobpositions {
+    background-color: #6cb830;
+    border-bottom:2px solid black;
+}
+
+.jobpositions ul {
+    display: flex;
+}
+
+.jobpositions ul li {
+    display: flex;
+    padding: 20px;
+    list-style: none;
+    margin: auto;
+}
+
+.jobpositions ul li a {
+    color: #d50312;
+    text-decoration: none;
+    font-size: 18px;
+
+}
+
+.hrfooter {
+    background-color: rgb(40, 39, 39);
+}
+
+.copyclasshr {
+    margin-top: 25px;
+    font-size: 25px;
+}
+
+.jobpositions h3 {
+    text-align: center;
+    padding: 15px;
+    color: #d50312;
+    font-size: 20px;
+
+}
+
+.okh3 {
+    text-align: center;
+
+}
+
+/*New footer configuration*/
+#footer {
+    display: table;
+    /*max-width: 60em;*/
+    padding: 1.25em;
+    margin: 0 auto;
+    /*border: 0.062em solid #151515;*/
+    background-color: red;
+    color:  #fff;
+    
+ }
+
+#footer div {
+    display: table-cell;
+    width: 33.333%;
+    padding: 1em;
+    text-align: center;
+}
+
+#footer div h2 {
+    text-align: center;
+ }
+ #footer div p{
+    text-align: center;
+    /*previous margin and padding were both 10px*/
+    padding: 0px;
+    margin: 0px;
+ }
+
+ #footer div ul li{
+    list-style: none;
+    /*previous margin and padding were both 10px*/
+    margin: 0px;
+ }
+ #footer div ul li a{
+    list-style: none;
+    color: white;
+    margin: 0px;
+    text-decoration: none;
+ }
+
+#footer div:nth-of-type(2) {
+    border-right: 0.062em dotted #999;
+    border-left: 0.062em dotted #999;
+ }
+
+#footer div:nth-of-type(3) {
+    text-align: left;
+ }
+ 
+ .imgc{
+    text-align: left;
+ }
+ .cqc{
+    display: flex;
+    margin: auto;
+    
+ }
+
+ /*footer new mobile friendly*/
+ 
+.container {
+    margin: 0 auto;
+    max-width: 800px;
+    width: 100%;
+    /*previous  padding were both 0 15px*/
+    padding: 0 0px;
+    box-sizing: border-box;
+}
+
+.footer {
+    font-size: 1.15rem;
+    padding: 0px 0;/*reduce from previous 20*/
+    line-height: 1.6;
+}
+
+.footer__text,
+.footer__link,
+.footer__title {
+    color: #fff;
+    /*previous padding were both 3px 15px*/
+    padding: 0;
+    display: block;
+}
+
+.footer__hr {
+    height: 1px;
+    border: none;
+    /*background: #444444;*/
+}
+
+.footer__sections {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+}
+
+.footer__section {
+    box-sizing: border-box;
+    width: 25%;
+    /*previous  padding were both 12px 0*/
+    padding: 12px 0;
+    flex-shrink: 0;
+}
+
+.footer__title {
+    font-weight: bold;
+    /*margin-bottom: 10px*/;
+    margin-bottom: 5px;
+}
+
+.footer__link {
+    text-decoration: none;
+}
+
+.footer__link:hover {
+    color: #cccccc;
+    background: rgba(255, 255, 255, 0.15);
+}
+
+@media screen and (max-width: 768px) {
+    .footer__section { width: 50%; }
+}
+
+@media screen and (max-width: 480px) {
+    .footer__section { width: 100%; }
+}
+
+footer{
+    background-color: #346b0a;
+}
+
+/* cqc css*/
+
+.cqchead{
+    text-align: center;
+}
+#rightsapce{
+    /*previous  padding were both 50px*/
+    padding: 50px;
+    text-align: center;
+}
+
+
+/* Services page and  Section*/
+
+#services{
+    margin: 34px;
+    display: flex;
+    font-family: Arial;
+
+
+}
+
+
+#services .box{
+    border: 2px solid #d50312;
+    padding: 34px;
+    margin: 3px 6px;
+    border-radius: 23px;
+}
+
+#services .box img{
+    height:160px;
+    display: block;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 23px;
+
+}
+
+.center{
+    font-family: Arial;
+}
+
+.description{
+    padding: 15px;
+    margin: 20px;
+   /* font-weight: bold;*/
+    font-size: 1.5rem;
+    
+}
+
+.reviewparaok{
+    
+    border: 2px solid #d50312;
+    background-color: #6cb830;
+    border-radius: 23px;
+    margin: 5px 8px;
+    padding: 12px;
+    transition: all;
+    
+
+    
+
+}
+
+.reviewparaok:hover{
+    background-color: #d50312;
+    transform:translate3d(20deg)
+
+}
+
+.reviewpara1{
+    color: #fff;
+    font-size: 21px;
+    
+}
+.reviewpara2{
+    color: #fff;
+    font-size: 21px;
+
+}
+.reviewpara3{
+    color: #fff;
+    font-size: 21px;
+}
+
+/*nav bar drop down menu*/
+
+
+
+#navbar ul li ul{
+    position: absolute;
+    /*left:0;*/
+    width: 200px;
+    
+
+}
+
+#navnew{
+    font-family: Arial;
+    font-size: 16px;
+   
+    
+}
+
+#navnew  ul li {
+    padding: 15px;
+    
+}
+
+
+#navnew ul li ul li {
+    padding: 2px;
+
+}
+
+/*acquired brain injury*/
+#home1 {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#home1::before {
+    content: "";
+    position: absolute;
+    background: url('../abj.jpg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#home1 h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+
+
+
+
+
+#home1 p {
+    color: #d50312;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+
+#okh1{
+    text-align: center;
+    color: #6cb830;
+    
+    font-size: 35px;
+    padding: 10px;
+    margin: 15px;
+
+}
+
+#okh1span{
+    border-bottom :5px solid #d50312 ;
+    
+}
+
+#pok{
+    font-size: 23px;
+    padding: 15px;
+    margin: 15px;
+    text-align: left;
+}
+
+.commentbox{
+    color: #366ef0;
+    background-color: rgb(138, 86, 190);
+    padding: 25px;
+    margin: 23.5689px;
+    border-radius: 28px;
+}
+
+#okc{
+    color: #fff;
+    font-size: 29.85px;
+    font-style: italic;
+
+}
+.commentbox i {
+    color: white;
+}
+
+#okspan{
+    color: black;
+    font-size: 2rem;
+    padding: 25px;
+    margin: 25px;
+    color: #6cb830;
+    text-align: center;
+    display: block;
+    margin: auto;
+
+}
+
+.buttonbox{
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-items: center;
+    align-content: center;
+    justify-content: center;
+    
+}
+
+.phna{
+    
+    background-color: #6cb830;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.9rem;
+    padding: 20px;
+    margin: 50px;
+    border: 2px solid black;
+    border-radius: 28px;
+    
+    
+}
+
+.maila{
+   
+   background-color: #6cb830;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.9rem;
+    padding: 20px;
+    margin: 50px;
+    border: 2px solid black;
+    border-radius: 28px;
+   
+    
+}
+.phna:hover{
+    
+    background-color: #d50312;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.9rem;
+    padding: 20px;
+    margin: 50px;
+    border: 2px solid black;
+    border-radius: 28px;
+    
+    
+}
+
+.maila:hover{
+   
+   background-color: #d50312;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.9rem;
+    padding: 20px;
+    margin: 50px;
+    border: 2px solid black;
+    border-radius: 28px;
+    
+}
+.callus:hover{
+    transform: scale(1.5);
+}
+
+.mailus:hover{
+    transform: scale(1.5);
+}
+
+.oklast{
+   box-shadow: 10px 10px 10px 10px grey;
+   height: 350px;
+   display: block;
+   margin: auto;
+}
+.otherinfo{
+    text-align: center;
+    color:grey ;
+    font-size: 1.89rem;
+    padding: 15px;
+    margin: 15px;
+}
+
+.imga{
+    text-decoration: none;
+    color: #6cb830;
+}
+
+/*Multiple Sclerosis*/
+#home2 {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#home2::before {
+    content: "";
+    position: absolute;
+    background: url('../mulimg.jpg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#home2 h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+
+
+
+
+
+#home2 p {
+    color: #d50312;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+
+/*Alzhiemers Disease*/
+#home3 {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#home3::before {
+    content: "";
+    position: absolute;
+    background: url('../alzimg.jpg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#home3 h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+
+
+
+
+
+#home3 p {
+    color: #d50312;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+/*Muscular Dystrophy*/
+#home4 {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#home4::before {
+    content: "";
+    position: absolute;
+    background: url('../musimg.jpg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#home4 h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+
+
+
+
+
+#home4 p {
+    color: #d50312;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+/*Bariatric care*/
+#home5 {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#home5::before {
+    content: "";
+    position: absolute;
+    background: url('../biarimg.jpg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#home5 h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+
+
+
+
+
+#home5 p {
+    color: #d50312;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+/* Neurological care */
+#home6 {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#home6::before {
+    content: "";
+    position: absolute;
+    background: url('../neuimg.jpg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#home6 h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+
+
+
+
+
+#home6 p {
+    color: #d50312;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+
+/*Cancer Care*/
+
+#home7 {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#home7::before {
+    content: "";
+    position: absolute;
+    background: url('../cancimg.jpeg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#home7 h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+
+
+
+
+
+#home7 p {
+    color: #d50312;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+/*Parkinsons Care*/
+#home8 {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#home8::before {
+    content: "";
+    position: absolute;
+    background: url('../parkimg.jpg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#home8 h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+
+
+
+
+
+#home8 p {
+    color: #d50312;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+/*Cerebral Palsy Care*/
+#home9 {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#home9::before {
+    content: "";
+    position: absolute;
+    background: url('../cerebralimg.jpg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#home9 h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+
+
+
+
+
+#home9 p {
+    color: #d50312;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+
+/*Spinal Cord injury Care*/
+#home10 {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#home10::before {
+    content: "";
+    position: absolute;
+    background: url('../spinalcord.jpg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#home10 h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+
+
+
+
+
+#home10 p {
+    color: #d50312;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+/*Down Syndrome Care*/
+#home11 {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#home11::before {
+    content: "";
+    position: absolute;
+    background: url('../downimg.jpg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#home11 h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+#home11 p {
+    color: #d50312;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+
+/*strokes care*/
+
+#home12 {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#home12::before {
+    content: "";
+    position: absolute;
+    background: url('../strokeimg.jpg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#home12 h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+#home12 p {
+    color: #d50312;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+/*huntingston care*/
+#home13 {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#home13::before {
+    content: "";
+    position: absolute;
+    background: url('../huntingtonimg.jpg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#home13 h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+#home13 p {
+    color: #d50312;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+/*support for the blind*/
+
+#home14 {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#home14::before {
+    content: "";
+    position: absolute;
+    background: url('../blindsupportimg.jpg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#home14 h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+#home14 p {
+    color: #d50312;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+
+/*knee and hip replacement care*/
+#home15 {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#home15::before {
+    content: "";
+    position: absolute;
+    background: url('../kneecareimg.jpg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#home15 h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+#home15 p {
+    color: #d50312;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+/*support for the deaf*/
+#home16 {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#home16::before {
+    content: "";
+    position: absolute;
+    background: url('../supportfortheblindimg.jpg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#home16 h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+#home16 p {
+    color: #d50312;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+/*Locked in Syndrome care*/
+#home17 {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#home17::before {
+    content: "";
+    position: absolute;
+    background: url('../lockedimg.jpg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#home17 h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+#home17 p {
+    color: #d50312;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+/*Ventilator Care*/
+#home18 {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#home18::before {
+    content: "";
+    position: absolute;
+    background: url('../ventilatorimg.jpg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#home18 h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+#home18 p {
+    color: #d50312;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+/*Nursing Care Section */
+/*home 19 will start from here*/
+#home19 {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#home19::before {
+    content: "";
+    position: absolute;
+    background: url('../clinicalimg.jpg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#home19 h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+#home19 p {
+    color: #d50312;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+/*neurological care nurse*/
+#home20 {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#home20::before {
+    content: "";
+    position: absolute;
+    background: url('../neu1img.jpg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#home20 h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+#home20 p {
+    color: #d50312;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+/*Clinical Management Support*/
+#home21 {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#home21::before {
+    content: "";
+    position: absolute;
+    background: url('../manageclinical.jpeg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#home21 h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+#home21 p {
+    color: #d50312;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+
+#okul li{
+    color: white;
+    font-size: 22px;
+}
+
+#spanok1 {
+    color: white;
+    font-size: 26px;
+}
+#okul2 li{
+    color: white;
+    font-size: 22px;
+}
+
+/*buttons borders of other work,location,other*//*borders specially*/
+
+#but1{
+    border: none;
+    padding: 20px;
+    margin: 20px;
+}
+
+#but2{
+    border: none;
+    padding: 20px;
+    margin: 20px;
+}
+
+#but3{
+    border: none;
+    padding: 20px;
+    margin: 20px;
+}
+
+.butts{
+   display: flex;
+   align-content: center;
+   justify-content: center;
+}
+
+/*exceptional care part*/
+
+.exceptcare{
+    margin: 25px;
+    padding: 26px;
+    border: 2px solid black;
+    border-radius: 28px;
+    box-shadow: 8px 8px 8px 8px grey;
+    /*background: linear-gradient(180deg,#6cb830,#d50312);*/
+    background:  linear-gradient(90deg, rgba(252, 149, 128, 1), transparent);;
+
+}
+.exceptcare h2{
+    color: black;
+    font-weight: bold;
+
+}
+
+.exceptcare p{
+    font-size: 1.1rem;
+
+}
+
+.exceptcare ul li{
+    font-size: 0.9rem;
+    list-style: none;
+
+}
+
+.exceptcare ul li a{
+    color: black;
+    font-size: 0.9rem;
+    text-decoration: none;
+
+}
+.exceptcare ul li a:hover{
+    color: #d50312;
+    font-size: 1.2rem;
+    
+    
+}
+
+/*Values Page*/
+#homeval {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#homeval::before {
+    content: "";
+    position: absolute;
+    background: url('../valuesimg.jpg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#homeval h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+
+
+
+
+
+#homeval p {
+    color: #d50312;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+
+/*complaints*/
+/*
+#complaints {
+    position: flex;
+    font-family: Arial;
+}
+
+#complaints::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0.7;
+    background: url('../contact.jpg') no-repeat center center/cover;
+
+}
+*/
+
+#complaint-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 34px;
+}
+
+#complaint-box input,
+#complaint-box textarea {
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 9px;
+    font-size: 1.1rem;
+}
+
+#complaint-box form {
+    width: 40%;
+}
+
+#complaint-box label {
+    font-size: 1.3rem;
+    font-family: Arial;
+
+}
+
+/*complaint page form and complex design with background*/
+#homecomplaint {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#homecomplaint::before {
+    content: "";
+    position: absolute;
+    background: url('../complaintsimg.jpg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#homecomplaint h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+
+
+
+
+
+#homecomplaint p {
+    color: #d50312;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+
+/* form-group*/
+
+.form-group{
+    text-align: left;
+}
+
+/*cqc image on page about us*/
+
+#cqcimg{
+    height: 250px;
+    box-shadow: 9px 9px 9px 9px rgb(201, 199, 199);
+    border: 2px solid transparent;
+    border-radius:28px ;
+   
+}
+
+#cqcimg:hover{
+    height: 300px;
+    
+    border-radius:28px ;
+}
+
+.imgform img{
+    height: 550px;
+    width: 300px;
+    border: 2px solid black;
+    float: left;
+    
+}
+
+.imgform{
+    padding: 25px;
+    margin: 25px;
+    
+}
+
+.okborder{
+    border: 2px solid black;
+}
+/*designs related to feedback page*/
+#feedback-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 34px;
+    border: 2px solid black;
+    border-radius: 28px;
+    margin: 50px;
+    background-color: #6f885c;
+}
+
+#feedback-box input,
+#feedback-box textarea {
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 9px;
+    font-size: 1.1rem;
+}
+
+#feedback-box form {
+    width: 40%;
+}
+
+#feedback-box label {
+    font-size: 1.3rem;
+    font-family: Arial;
+
+}
+
+/*feedbackpage background*/
+#homefeedback {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#homefeedback::before {
+    content: "";
+    position: absolute;
+    background: url('../Feedback.png') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#homefeedback h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+
+
+
+
+
+#homefeedback p {
+    color: #d50312;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+
+/*price guide deisgn*/
+#homepguide {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#homepguide::before {
+    content: "";
+    position: absolute;
+    background: url('../priceguideimg.jpg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#homepguide h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+
+
+
+
+
+#homepguide p {
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+
+/*case studies design */
+#homecase {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+
+#homecase::before {
+    content: "";
+    position: absolute;
+    background: url('../casestudiesimg.jpg') no-repeat center center/cover;
+    height: 642px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.89;
+}
+
+#homecase h1 {
+    /*grey color focus care link*/
+    color: #6cb830;
+    text-align: center;
+    font-family:Arial;
+
+}
+
+
+
+
+
+
+#homecase p {
+    color: #d50312;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+
+
+
+
+
+

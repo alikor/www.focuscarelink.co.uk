@@ -1,0 +1,348 @@
+#box1{
+   /* height: 700px;*/
+    width: 490px;
+
+
+}
+
+#box2{
+   /* height: 700px;*/
+    width: 490px;
+
+}
+
+#box3{
+    /*height: 700px;*/
+    width: 490px;
+
+
+
+}
+/*box 4 line 2*/
+#services01{
+    margin: 34px;
+    display: flex;
+}
+#box4{
+    border: 2px solid brown;
+    padding: 34px;
+    margin: 2px 55px;
+    border-radius: 28px;
+    background: #f2f2f2;
+    margin-bottom: 20px;
+    height: 600px;
+    width: 300px;
+    /*margin-left: 89px;*/
+    
+}
+
+#box4 img{
+    height: 160px;
+   margin: auto;
+   display: block;
+   border: 2px solid black;
+   border-radius: 18px;
+}
+
+#box4 p{
+    font-family: Arial;
+    font-size: 15px;
+    text-align: left;
+}
+
+/*box 5 line 2*/
+
+#box5{
+    border: 2px solid brown;
+    padding: 34px;
+    margin: 2px 55px;
+    border-radius: 28px;
+    background: #f2f2f2;
+    margin-bottom: 20px;
+    height: 600px;
+    width: 300px;
+    /*margin-left: 89px;*/
+}
+
+#box5 img{
+    height: 160px;
+   margin: auto;
+   display: block;
+   border: 2px solid black;
+   border-radius: 18px;
+}
+
+#box5 p{
+    font-family: Arial;
+    text-align: left;
+}
+
+/*box 6 line 2*/
+#box6{
+    border: 2px solid brown;
+    padding: 34px;
+    margin: 2px 55px;
+    border-radius: 28px;
+    background: #f2f2f2;
+    margin-bottom: 20px;
+    height: 600px;
+    width: 300px;
+    /*margin-left: 89px;*/
+}
+
+#box6 img{
+    height: 160px;
+   margin: auto;
+   display: block;
+   border: 2px solid black;
+   border-radius: 18px;
+}
+
+#box6 p{
+    font-family: Arial;
+    text-align: left;
+}
+/*line 3 of boxes shall start from here*/
+
+#services02{
+    margin: 34px;
+    display: flex;
+}
+
+#box7{
+    border: 2px solid brown;
+    padding: 34px;
+    margin: 2px 55px;
+    border-radius: 28px;
+    background: #f2f2f2;
+    margin-bottom: 20px;
+    height: 600px;
+    width: 300px;
+    /*margin-left: 89px;*/
+    
+}
+
+#box7 img{
+    height: 160px;
+   margin: auto;
+   display: block;
+   border: 2px solid black;
+   border-radius: 18px;
+}
+
+#box7 p{
+    font-family: Arial;
+    font-size: 15px;
+    text-align: left;
+
+}
+
+/*box 8 line 3*/
+#box8{
+    border: 2px solid brown;
+    padding: 34px;
+    margin: 2px 55px;
+    border-radius: 28px;
+    background: #f2f2f2;
+    margin-bottom: 20px;
+    height: 600px;
+    width: 300px;
+    /*margin-left: 89px;*/
+    
+}
+
+#box8 img{
+    height: 160px;
+   margin: auto;
+   display: block;
+   border: 2px solid black;
+   border-radius: 18px;
+}
+
+#box8 p{
+    font-family: Arial;
+    font-size: 15px;
+    text-align: left;
+
+}
+
+/*box 9 line 3*/
+#box9{
+    border: 2px solid brown;
+    padding: 34px;
+    margin: 2px 55px;
+    border-radius: 28px;
+    background: #f2f2f2;
+    margin-bottom: 20px;
+    height: 600px;
+    width: 300px;
+    /*margin-left: 89px;*/
+    
+}
+
+#box9 img{
+    height: 160px;
+   margin: auto;
+   display: block;
+   border: 2px solid black;
+   border-radius: 18px;
+}
+
+#box9 p{
+    font-family: Arial;
+    font-size: 15px;
+    text-align: left;
+
+}
+
+/*line 4*/
+/*box 10 of line 4*/
+#services03{
+    margin: 34px;
+    display: flex;
+}
+
+#box10{
+    border: 2px solid brown;
+    padding: 34px;
+    margin: 2px 55px;
+    border-radius: 28px;
+    background: #f2f2f2;
+    margin-bottom: 20px;
+    height: 600px;
+    width: 300px;
+    /*margin-left: 89px;*/
+    
+}
+
+#box10 img{
+    height: 160px;
+   margin: auto;
+   display: block;
+   border: 2px solid black;
+   border-radius: 18px;
+}
+
+#box10 p{
+    font-family: Arial;
+    font-size: 15px;
+    text-align: left;
+
+}
+
+/*box 8 line 3*/
+#box11{
+    border: 2px solid brown;
+    padding: 34px;
+    margin: 2px 55px;
+    border-radius: 28px;
+    background: #f2f2f2;
+    margin-bottom: 20px;
+    height: 600px;
+    width: 300px;
+    /*margin-left: 89px;*/
+    
+}
+
+#box11 img{
+    height: 160px;
+   margin: auto;
+   display: block;
+   border: 2px solid black;
+   border-radius: 18px;
+}
+
+#box11 p{
+    font-family: Arial;
+    font-size: 15px;
+    text-align: left;
+
+}
+
+/*box 9 line 3*/
+#box12{
+    border: 2px solid brown;
+    padding: 34px;
+    margin: 2px 55px;
+    border-radius: 28px;
+    background: #f2f2f2;
+    margin-bottom: 20px;
+    height: 600px;
+    width: 300px;
+    /*margin-left: 89px;*/
+    
+}
+
+#box12 img{
+    height: 160px;
+   margin: auto;
+   display: block;
+   border: 2px solid black;
+   border-radius: 18px;
+}
+
+#box12 p{
+    font-family: Arial;
+    font-size: 15px;
+    text-align: left;
+
+}
+/*all four lines css ends here*/
+
+/*new services shall begin from here*/
+.imgc{
+   margin: 30px;
+}
+
+/*box size management of pcs and laptops here*/
+#services{
+    margin: 34px;
+    display: flex;
+    font-family: Arial;
+
+
+}
+
+#services .box{
+    border: 2px solid #d50312;
+    padding: 34px;
+    margin: 25px 50px;
+    border-radius: 23px;
+    width: 500px;
+}
+
+#services .box img{
+    height:160px;
+    display: block;
+    margin: auto;
+    border: 2px solid black;
+
+}
+
+#services .box1{
+    border: 2px solid #d50312;
+    padding: 34px;
+    margin: 3px 25px;
+    border-radius: 23px;
+}
+#services .box1 img{
+    height:160px;
+    display: block;
+    margin: auto;
+    border: 2px solid black;
+
+}
+
+#pcenter{
+    text-align: left;
+}
+.description{
+    padding: 15px;
+    margin: 7px 6px;
+   /* font-weight: bold;*/
+    font-size: 1.5rem;
+    
+}
+body{
+    font-family: Arial;
+}
